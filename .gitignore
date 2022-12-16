@@ -4,3 +4,4 @@ songs
 .music-dwnldr
 package-lock.json
 _credentials_.json
+*.mp3
