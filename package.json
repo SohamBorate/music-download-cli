@@ -1,0 +1,19 @@
+{
+  "name": "music-download-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test-search": "node . download \"Teenagers My Chemical Romance\"",
+    "test-track-url": "node . download \"https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0\"",
+    "test-playlist-url": "node . download \"https://open.spotify.com/playlist/7GAWn451GhOQSf2iuFK6Ke\"",
+    "test-album-url": "node . download \"https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh\""
+  },
+  "author": "Soham Borate",
+  "license": "MIT",
+  "bin": "./lib/index.js",
+  "dependencies": {
+    "music-dwnldr": "^1.0.2",
+    "yargs": "^17.6.2"
+  }
+}
