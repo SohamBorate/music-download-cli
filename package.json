@@ -6,7 +6,7 @@
   "scripts": {
     "test-search": "node . download \"Teenagers My Chemical Romance\"",
     "test-track-url": "node . download \"https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0\"",
-    "test-playlist-url": "node . download \"https://open.spotify.com/playlist/7GAWn451GhOQSf2iuFK6Ke\"",
+    "test-playlist-url": "node . download \"https://open.spotify.com/playlist/4B4TWpu2NzbPZWAuoI2gXS\"",
     "test-album-url": "node . download \"https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh\""
   },
   "author": "Soham Borate",
